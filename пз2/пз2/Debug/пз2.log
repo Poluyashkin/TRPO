@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Anton\source\repos\пз2\пз2\Source.cpp(388,12): warning C4101: columnIndex: неиспользованная локальная переменная
+C:\Users\Anton\source\repos\пз2\пз2\Source.cpp(388,25): warning C4101: lineIndex: неиспользованная локальная переменная
+C:\Users\Anton\source\repos\пз2\пз2\Source.cpp(493,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  пз2.vcxproj -> C:\Users\Anton\source\repos\пз2\Debug\пз2.exe
