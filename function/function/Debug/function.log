@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Anton\source\repos\function\function\Source.cpp(70,88): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anton\source\repos\function\function\Source.cpp(81,98): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  function.vcxproj -> C:\Users\Anton\source\repos\function\Debug\function.exe
